@@ -1,0 +1,69 @@
+﻿group,demographic_category,demographic,1971-1974,1976-1980,1988-1994,1999-2000,2001-2002,2003-2004,2005-2006,2007-2008,2009-2010,2011-2012,2013-2014,2015-2016,2017-2018
+Adults,,,,,22.9,30.5,30.5,32.2,34.3,33.7,35.7,34.9,37.7,39.6,42.4
+Adults,Sex,Women,,,25.4,33.4,33.2,33.2,35.3,35.4,35.8,36.1,40.4,41.1,41.9
+Adults,Sex,Men,,,20.2,27.5,27.7,31.1,33.3,32.2,35.5,33.5,35,37.9,43
+Adults,Age,Adults 20-39,,,17.7,26,26.1,28.5,29.1,30.7,32.6,30.3,34.3,35.7,40
+Adults,Age,Adults 40-59,,,27.9,33.5,33.9,36.8,40.4,36.2,36.6,39.5,41,42.8,44.8
+Adults,Age,Adults 60+,,,23.7,33.5,32.8,31,33.4,35.1,39.7,35.4,38.5,41,42.8
+Adults,Age and Sex,Women 20-39,,,20.7,28.3,29.8,28.9,30.5,34,31.9,31.8,37,36.5,39.7
+Adults,Age and Sex,Women 40-59,,,30.3,37.7,35.7,38.8,41.1,38.1,36,39.5,44.6,44.7,43.3
+Adults,Age and Sex,Women 60+,,,25.6,35,35,31.5,34.4,33.5,42.3,38.1,39.4,43.1,43.3
+Adults,Age and Sex,Men 20-39,,,14.8,23.7,22.3,28,27.9,27.4,33.2,29,31.6,34.8,40.3
+Adults,Age and Sex,Men 40-59,,,25.4,28.8,32.2,34.8,39.6,34.2,37.2,39.4,37.2,40.8,46.4
+Adults,Age and Sex,Men 60+,,,21.2,31.7,29.9,30.4,32.2,37,36.6,32,37.5,38.5,42.2
+Adults,Race and Ethnicity,Asian,,,,,,,,,,10.8,12.6,12.7,17.4
+Adults,Race and Ethnicity,Black,,,,,,,,44.1,49.5,47.8,48.4,46.8,49.6
+Adults,Race and Ethnicity,Hispanic,,,,,,,,38.7,39.1,42.5,42.6,47,44.8
+Adults,Race and Ethnicity,White,,,,,,,,32.4,34.3,32.6,36.4,37.9,42.2
+Adults,"Race, Ethnicity and Sex","Women, Asian",,,,,,,,,,11.4,12.4,14.8,17.2
+Adults,"Race, Ethnicity and Sex","Women, Black",,,38.4,49.5,48.2,53.9,52.9,49.4,58.5,56.6,57.2,54.8,56.9
+Adults,"Race, Ethnicity and Sex","Women, Hispanic",,,35.4,39.5,37,42.3,42.1,43,41.4,44.4,46.9,50.6,43.7
+Adults,"Race, Ethnicity and Sex","Women, White",,,22.9,30.1,31.2,30.2,32.9,33,32.2,32.8,38.2,38,39.8
+Adults,"Race, Ethnicity and Sex","Men, Asian",,,,,,,,,,10,12.6,10.1,17.5
+Adults,"Race, Ethnicity and Sex","Men, Black",,,21.1,27.9,27.9,34,37,37.2,38.8,37.1,38,36.9,41.1
+Adults,"Race, Ethnicity and Sex","Men, Hispanic",,,23.9,28.9,25.9,31.6,27,34.2,37,40.1,37.9,43.1,45.7
+Adults,"Race, Ethnicity and Sex","Men, White",,,20.3,27.3,29,31.1,33,31.9,36.2,32.4,34.7,37.9,44.7
+Youth,,,5.2,5.5,10,13.9,15.4,17.1,15.4,16.8,16.9,16.9,17.2,18.5,
+Youth,Sex,Girls,5.1,5.6,9.8,13.8,14.3,16,14.9,15.9,15,17.2,17.1,17.8,
+Youth,Sex,Boys,5.3,5.4,10.2,14,16.4,18.2,15.9,17.7,18.6,16.7,17.2,19.1,
+Youth,Age,Youth 2-5,5,5,7.2,10.3,10.6,13.9,10.7,10.1,12.1,8.4,9.4,13.9,
+Youth,Age,Youth 6-11,4,6.5,11.3,15.1,16.2,18.8,15.1,19.6,18,17.7,17.4,18.4,
+Youth,Age,Youth 12-19,6.1,5,10.5,14.8,16.7,17.4,17.8,18.1,18.4,20.5,20.6,20.6,
+Youth,Age and Sex,Girls 2-5,4.9,5.3,8.2,11.2,10.5,12.7,11,10.9,9.6,7.2,10,13.5,
+Youth,Age and Sex,Girls 6-11,3.6,6.4,11,14.3,14.8,17.6,14.1,18,15.7,19.1,15.9,16.3,
+Youth,Age and Sex,Girls 12-19,6.2,5.3,9.7,14.8,15.7,16.4,17.3,16.8,17.1,20.7,21.4,20.9,
+Youth,Age and Sex,Boys 2-5,5,4.7,6.2,9.5,10.7,15.1,10.4,9.3,14.4,9.5,8.8,14.3,
+Youth,Age and Sex,Boys 6-11,4.3,6.6,11.6,15.8,17.5,19.9,16.2,21.2,20.1,16.4,18.8,20.4,
+Youth,Age and Sex,Boys 12-19,6.1,4.8,11.3,14.8,17.6,18.2,18.2,19.3,19.6,20.3,19.8,20.2,
+Youth,Race and Ethnicity,Asian,,,,,,,,,,8.6,8.6,11,
+Youth,Race and Ethnicity,Black,,,,18.8,17.5,20,20.7,20,24.3,20.2,19.5,22,
+Youth,Race and Ethnicity,Hispanic,,,,20.2,19.5,19.2,20.9,20.9,21.2,22.4,21.9,25.8,
+Youth,Race and Ethnicity,White,,,,11,13.9,16.3,14.6,15.3,14,14.1,14.7,14.1,
+Youth,"Race, Ethnicity and Sex","Girls, Asian",,,,,,,,,,5.6,5,10.1,
+Youth,"Race, Ethnicity and Sex","Girls, Black",,,14.5,21.4,19.5,23.8,24.4,22.8,24.3,20.5,20.9,25.1,
+Youth,"Race, Ethnicity and Sex","Girls, Hispanic",,,13.8,16.8,17,16.1,20.6,17.3,18.9,20.6,22.1,23.6,
+Youth,"Race, Ethnicity and Sex","Girls, White",,,8.6,11.1,12.7,14.9,12.2,14.9,11.7,15.6,14.6,13.5,
+Youth,"Race, Ethnicity and Sex","Boys, Asian",,,,,,,,,,11.5,12.1,11.7,
+Youth,"Race, Ethnicity and Sex","Boys, Black",,,10.6,16.4,15.5,16.4,18.3,17.3,24.3,19.9,16.8,19,
+Youth,"Race, Ethnicity and Sex","Boys, Hispanic",,,14.8,23.5,22,22,24.3,24.5,23.4,24.1,20.6,28,
+Youth,"Race, Ethnicity and Sex","Boys, White",,,9.7,10.9,15,17.8,13.4,15.6,16.1,12.6,15.9,14.6,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+SOURCES,,,,,,,,,,,,,,,
+,https://www.cdc.gov/nchs/data/hestat/obesity_child_15_16/obesity_child_15_16.htm,"1971-74 through 2015-16, all youth data breakdowns except overall Race and Ethnicity",,,,,,,,,,,,,
+,https://www.cdc.gov/nchs/data/hestat/obesity_adult_15_16/obesity_adult_15_16.htm,"1988-1994 through 2015-16, all adult breakdowns except overall Race and Ethnicity",,,,,,,,,,,,,
+,https://www.cdc.gov/nchs/products/databriefs/db360.htm,"2017-2018, adult data",,,,,,,,,,,,,
+,https://www.cdc.gov/nchs/products/databriefs/db288.htm,"2015-2016, adult and youth overall Race and Ethnicity rates",,,,,,,,,,,,,
+,https://jamanetwork.com/journals/jama/fullarticle/2526639,"2013-2014, adult overall Race and Ethnicity",,,,,,,,,,,,,
+,https://jamanetwork.com/journals/jama/fullarticle/2526638,"2011-2014, youth overall race and ethnicity (represented as 2013-14 data in web feature)",,,,,,,,,,,,,
+,https://jamanetwork.com/journals/jama/fullarticle/1832542,"2011-2012, youth overall race and ethnicity",,,,,,,,,,,,,
+,https://jamanetwork.com/journals/jama/fullarticle/1832542,"2011-2012, adult overall race and ethnicity",,,,,,,,,,,,,
+,https://jamanetwork.com/journals/jama/fullarticle/1104933,"2009-2010, adult overall race and ethnicity",,,,,,,,,,,,,
+,https://jamanetwork.com/journals/jama/fullarticle/1104932,"2009-2010, youth overall race and ethnicity",,,,,,,,,,,,,
+,https://jamanetwork.com/journals/jama/fullarticle/185235,"2007-2008, adult overall race and ethnicity",,,,,,,,,,,,,
+,https://jamanetwork.com/journals/jama/fullarticle/185233,"2007-2008, youth overall race and ethnicity",,,,,,,,,,,,,
+,https://jamanetwork.com/journals/jama/fullarticle/1028638,"2005-2006, youth overall race and ethnicity",,,,,,,,,,,,,
+,https://jamanetwork.com/journals/jama/fullarticle/202627,"2003-2004, youth overall race and ethnicity",,,,,,,,,,,,,
+,https://jamanetwork.com/journals/jama/fullarticle/202627,"2001-2002, youth overall race and ethnicity",,,,,,,,,,,,,
+,https://jamanetwork.com/journals/jama/fullarticle/202627,"1999-2000, youth overall race and ethnicity",,,,,,,,,,,,,
