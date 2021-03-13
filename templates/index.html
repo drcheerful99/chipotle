@@ -12,51 +12,12 @@
 <body>
     <div class="container">
         <div class="row margin-top-50">
-          <div class="col-md-2">
-            <aside class="filters">
-              <div class="panel panel-default">
-                <div class="panel-heading">Filter Search</div>
-                <div class="panel-body">
-                  <form id= "form">
-                    <div class="form-group">
-                      <ul class="list-group" id="filters">
-                        <li class="filter list-group-item">
-                          <label for="date">Enter a state</label>
-                          <input class="form-control" id="state" type="text" placeholder="Alabama" >
-                        </li>
-                      </ul>
-                    </div>
-                    <button id="filter-btn" type="button" class="btn btn-default" onsubmit="search()">Filter Table</button>
-                  </form>
-                </div>
-              </div>
-            </aside>
-          </div>
-          <div class="col-md-10">
-            <div id="table-area" class="">
-              <table id="ufo-table" class="table table-striped">
-                <thead>
-                  <tr>
-                    <th class="table-head">Date</th>
-                    <th class="table-head">City</th>
-                    <th class="table-head">State</th>
-                    <th class="table-head">Country</th>
-                    <th class="table-head">Shape</th>
-                    <th class="table-head">Duration</th>
-                    <th class="table-head">Comments</th>
-                  </tr>
-                </thead>
-                <tbody></tbody>
-              </table>
-            </div>
-          </div>
-        </div>
-      </div>
+          
     <div class="container text-center">
       <h1 class="jumbotron">Chipotle Locations</h1>
       <div>
         <!-- write a for loop that lists out your data and accesses the values using dot notation. -->
-          {% for location in locations %}
+          <!-- {% for location in locations %}
           <div class="col-lg-4">
               <div class="card" style="width: 20rem;">
                   <div class="card-body">
@@ -66,9 +27,44 @@
                   </div>
                 </div>
             </div>
-            {% endfor %}
+            {% endfor %} -->
 
       </div>
+      <div class="col-md-2">
+        <aside class="filters">
+          <div class="panel panel-default">
+            <div class="panel-heading">Filter Search</div>
+            <div class="panel-body">
+              <form id= "form">
+                <div class="form-group">
+                  <ul class="list-group" id="filters">
+                    <li class="filter list-group-item">
+                      <label for="date">Enter a state</label>
+                      <input class="form-control" id="state" type="text" placeholder="Alabama" onsubmit="search()">
+                    </li>
+                  </ul>
+                </div>
+                <button id="filter-btn" type="button" class="btn btn-default" >Filter Table</button>
+              </form>
+            </div>
+          </div>
+        </aside>
+      </div>
+      <div class="col-md-10">
+        <div id="table-area" class="">
+          <table id="ufo-table" class="table table-striped">
+            <thead>
+              <tr>
+                <th class="table-head">Location</th>
+                <th class="table-head">Address</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
     </div>
     
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
