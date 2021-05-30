@@ -1,5 +1,7 @@
 # Chipotle Data Exploration
 
+Goals: This project uses data and data analysis to persuade potential investors why they should invest in a Chipotle franchise (hypothetically-speaking). We looked primarily at Chipotle location data, all fast food resturuant location data and Chipotle stock market data. 
+
 Project Invitation:
 
 
